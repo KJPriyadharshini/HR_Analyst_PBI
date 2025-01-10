@@ -27,11 +27,6 @@ Also since attrition rate is very high where salary of employees is below 5k, th
 - Step 6 : Every column in the table was selected and right clicked to remove duplicates.
 - Step 7 : It was observed that the column "BusinessTravel" has different values that repeats itself. The values where were replaced by right clicking the column name.
 - Step 8 : A conditional column called "Attrition_Count" was created in which, 'yes and no' values where changed to boolean using if else condition.
-
-Snap of the conditional column,
-
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/bd3923e5-7e1f-4d28-b262-4ddb07460ab6)
-
 - Step 9 : In the report view, canvas was customised by changing the canvas settings in visualizations.
 - Step 10 : In order to represent KPIs, the card visual was added using card icon in the visualizations pane in report view. 
 - Step 11 : The card visual was added for count of employees, attrition, attrition rate, avg salary, avg age, avg years at company.
@@ -55,43 +50,22 @@ Snap of the conditional column,
 - Step 15 : Two other horizontal stacked bar chart was added to the report where X axis represented count of attrition and Y axis represented salary and job role.
 - Step 16 : A filter was added to the "Attrition by Job Role" where TOP N (4) basic filter was applied.
 
-Snap of TOP N filter,
-
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/abb25918-efb9-4bb7-90cd-8594ca1ca7c5)
-
 - Step 17 : An area chart was included in the dashboard where Years At Company represented X axis and count of attrition represented Y axis.
 - Step 18: Advance filter for the line chart is applied for years less than 12 years.
 Snap of the advance filter,
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/0cc78cd3-bb06-401e-9e6b-a0cb49f60dc3)
 
 - Step 19 : A Matrix was added to represent the job satisfaction of the different employees in different job roles.
 - Step 20 : In the report view, under the insert tab, a text box was added to the canvas, where name of the dashboard is added.
 - Step 21 : The slicer is added to the report view in tile format. The values are filtered by department.
 
 Snap of the slicer,
-
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/90980ad4-a67b-476f-b26d-e6b45645c632)
-        
 - Step 22 : A tree chart was added to the report view to show the count of attrition by the genders.
- 
- Snap of attrition by gender,
-
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/e3b12526-e111-46a4-aa6c-6128dfeccd7e)
 
 - Step 23 : The report was then published to power BI service.
- 
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/0e1fc1df-ca7d-49f9-90fb-a1dff7cc088a)
-
-
-
-# Snapshot of Dashboard (Power BI Service)
-
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/7064fcfa-2b56-4219-9394-f8e69a5ee0aa)
 
 # Report Snapshot (Power BI DESKTOP)
 
-![image](https://github.com/KJPriyadharshini/Power-BI-project/assets/155991675/befe5e28-f3a2-401d-a2bd-1a1f17a307a8)
-
+![image](https://github.com/user-attachments/assets/7b537da0-f198-4469-b6c9-3fb8545027cc)
 
 # Insights
 
@@ -138,4 +112,3 @@ These values will change if different visual filters will be applied.
 
 # HR_Analytics-Dashboard.md.txt
 Displaying #HR_Analytics-Dashboard.md.txt.
-
